@@ -16,8 +16,8 @@ the final price of each home.
 
 ## Goal
 
-It is our job to predict the sales price for each house. For each Id in the test 
-set, we must predict the value of the SalePrice variable. 
+The ultimate goal is to predict the sales price for each house. For each Id in 
+the test set, we must predict the value of the SalePrice variable. 
 
 ## Metric
 
