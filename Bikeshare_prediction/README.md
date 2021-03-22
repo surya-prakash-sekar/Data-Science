@@ -1,4 +1,4 @@
-#### The objective of this project is to build a model that predicts the hourly count of rental bikes
+### The objective of this project is to build a model that predicts the hourly count of rental bikes
 
 ##### Bike Sharing Analysis.ipynb
 -	Contains the code that performs operations such as data wrangling, EDA, model selection, model building and saving the model to production
