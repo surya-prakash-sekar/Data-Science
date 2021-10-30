@@ -1,1 +1,1 @@
-# Machine Learning and Data Mining concepts and project exploration
+# Machine Learning and Data Mining concepts, research and project exploration
