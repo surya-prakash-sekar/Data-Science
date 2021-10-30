@@ -1,0 +1,18 @@
+Row Labels,Sum of population_in_thousands
+25 to 49,
+female,121501
+male,122916
+25 to 49 Total,244417
+50 to74,
+female,109960
+male,102846
+50 to74 Total,212806
+Above 75,
+female,34811
+male,23145
+Above 75 Total,57956
+Below 25,
+female,43681
+male,45749
+Below 25 Total,89430
+Grand Total,604609
